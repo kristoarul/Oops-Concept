@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>servey_id__c</fullName>
+    <displayFormat>{DD}-{MM}-{YYYY}-{000}</displayFormat>
+    <externalId>false</externalId>
+    <label>servey id</label>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rool_number__c</fullName>
+    <displayFormat>ss-{0000}</displayFormat>
+    <externalId>false</externalId>
+    <label>Rool_number</label>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>
